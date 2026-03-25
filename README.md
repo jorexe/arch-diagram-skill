@@ -1,5 +1,7 @@
 # arch-diagram
 
+![Dark mode](https://github.com/jorexe/arch-diagram-skill/blob/gh-pages/example/architecture-diagram-dark.png?raw=true)
+
 A Claude Code skill that analyzes your codebase and generates an interactive, polished system architecture diagram as a standalone HTML file.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -27,13 +29,13 @@ The output is a clean, infographic-style diagram — not a generic box-and-arrow
 
 ### Live example
 
-Open [`example/architecture-diagram.html`](example/architecture-diagram.html) in your browser to see a sample diagram with pan, zoom, dark mode, and color-coded arrows.
+Open [`live demo`](https://jorexe.github.io/arch-diagram-skill) in your browser to see a sample diagram with pan, zoom, dark mode, and color-coded arrows.
 
 ### Screenshots
 
-![Light mode](example/architecture-diagram-bright.png)
+![Light mode](https://github.com/jorexe/arch-diagram-skill/blob/gh-pages/example/architecture-diagram-bright.png?raw=true)
 
-![Dark mode](example/architecture-diagram-dark.png)
+![Dark mode](https://github.com/jorexe/arch-diagram-skill/blob/gh-pages/example/architecture-diagram-dark.png?raw=true)
 
 ## Install
 
